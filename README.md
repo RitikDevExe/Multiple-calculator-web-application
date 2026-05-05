@@ -84,7 +84,8 @@ A simple and interactive web application that combines multiple useful calculato
 
 1\. Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/RitikDevExe/Multiple-calculator-web-application
+.git
 
 
 
