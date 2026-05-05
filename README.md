@@ -76,6 +76,12 @@ A simple and interactive web application that combines multiple useful calculato
 
 \---
 
+## 🚀 Live Demo
+
+View the live site here:
+
+https://RitikDevExe.github.io/Multiple-calculator-web-application
+
 
 
 \## ⚙️ How to Run Locally
@@ -84,8 +90,6 @@ A simple and interactive web application that combines multiple useful calculato
 
 1\. Clone the repository
 
-git clone https://github.com/RitikDevExe/Multiple-calculator-web-application
-.git
 
 
 
