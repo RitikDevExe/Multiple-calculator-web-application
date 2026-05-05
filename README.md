@@ -76,7 +76,7 @@ A simple and interactive web application that combines multiple useful calculato
 
 \---
 
-## 🚀 Live Demo
+## 🚀 Live demo
 
 View the live site here:
 
